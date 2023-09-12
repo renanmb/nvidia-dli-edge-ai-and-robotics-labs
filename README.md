@@ -1,5 +1,11 @@
 # DLI Edge AI and Robotics Teaching Kit Lab Solutions Repository
 
+Slowly being modified to include Isaac Sim, Jetbot, Jetracer and more ...
+
+Author:<br/>
+> - Renan Monteiro Barbosa
+
+
 Welcome to the DLI Edge AI and Robotics Teaching Kit lab solutions repository. The kit and associated labs/solutions are developed jointly by NVIDIA, University of Oxford and University of Maryland Baltimore County (UMBC).  All material is available under the [Creative Commons Attribution-NonCommercial License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## System Requirements and Environment Setup
